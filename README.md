@@ -1,6 +1,6 @@
 # kod_asistanim
 # kod_asistanimz
-Proje Yazarı: Fatmanur Tak
+Proje Yazarı: Musa Erim Othan
 # Projenin Ada: Kod-Asistan v0.1
 ## Projenin Amacı: Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcz olacak bir dijital asistan tasarlamak
 ## Projenin Hedefleri: v1.0 Akıllı Menü, v2.0 Veri Saklama
